@@ -239,7 +239,7 @@ export default {
     },
 
     emitComplete() {
-      this.$emit('onComplete')
+      this.$emit('complete')
     },
 
     /**
